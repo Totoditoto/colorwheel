@@ -1,6 +1,5 @@
 
 #include <colorwheel.h>
-#include "module.h"
 
 static int value = 10;
 
