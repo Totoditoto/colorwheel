@@ -37,7 +37,7 @@ CW_TRACE_INFO(message, ...);
 
 ### Exemple
 
-Here's a little test program showing all predefined message styled :
+Here's a little test program showing all predefined message styles :
 
 ```c
 
