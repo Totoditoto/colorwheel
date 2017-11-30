@@ -1,6 +1,8 @@
 # colorwheel
 Colorwheel provides easy-to-use colored print and trace macros for debuging your C or C++ program.
 
+![Example screenshot](./example/demo.png) 
+
 To install directly to your include path, run the following command : 
 
 ```bash
@@ -62,5 +64,3 @@ void main(void)
 }
 
 ```
-
-![Example screenshot](./example/demo.png) 
