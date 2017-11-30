@@ -19,18 +19,18 @@ Here are the ready-to-use macros :
 
 ```c
 /* Predefined printf styled messages */
-CW_PRINT_NORMAL(message, ...)
-CW_PRINT_ALARM(message, ...)
-CW_PRINT_CRITICAL(message, ...)
-CW_PRINT_FAULT(message, ...)
-CW_PRINT_VALID(message, ...)
-CW_PRINT_INFO(message, ...)
+CW_PRINT_NORMAL(message, ...);
+CW_PRINT_ALARM(message, ...);
+CW_PRINT_CRITICAL(message, ...);
+CW_PRINT_FAULT(message, ...);
+CW_PRINT_VALID(message, ...);
+CW_PRINT_INFO(message, ...);
 
 /* Predefined trace styled messages (indicates file, function and line) */
-CW_TRACE_NORMAL(message, ...)
-CW_TRACE_ALARM(message, ...)
-CW_TRACE_CRITICAL(message, ...)
-CW_TRACE_FAULT(message, ...)
-CW_TRACE_VALID(message, ...)
-CW_TRACE_INFO(message, ...)
+CW_TRACE_NORMAL(message, ...);
+CW_TRACE_ALARM(message, ...);
+CW_TRACE_CRITICAL(message, ...);
+CW_TRACE_FAULT(message, ...);
+CW_TRACE_VALID(message, ...);
+CW_TRACE_INFO(message, ...);
 ```
