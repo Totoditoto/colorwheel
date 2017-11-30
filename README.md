@@ -35,7 +35,7 @@ CW_TRACE_VALID(message, ...);
 CW_TRACE_INFO(message, ...);
 ```
 
-### Exemple
+### Example
 
 Here's a little test program showing all predefined message styles :
 
@@ -62,3 +62,5 @@ void main(void)
 }
 
 ```
+
+![Example screenshot](./example/demo.png) 
